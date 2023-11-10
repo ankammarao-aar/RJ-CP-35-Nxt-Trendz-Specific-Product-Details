@@ -1,0 +1,44 @@
+.similar-list-item {
+  font-family: 'Roboto';
+  margin-right: 42px;
+}
+
+.similar-img {
+  height: 120px;
+  border-radius: 6px;
+}
+
+.similar-title {
+  font-size: 10px;
+  font-weight: bold;
+  color: #12022f;
+}
+
+.similar-brand {
+  font-size: 10px;
+  color: #475569;
+}
+
+.similar-price-rating-card {
+  display: flex;
+  justify-content: space-between;
+}
+
+.similar-price {
+  font-size: 10px;
+  font-weight: bold;
+  color: #171f46;
+}
+
+.similar-rating {
+  font-size: 10px;
+  width: 32px;
+  line-height: 2;
+  background-color: #3b82f6;
+  color: #ffffff;
+  border-radius: 4px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
